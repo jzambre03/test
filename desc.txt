@@ -1,51 +1,9 @@
-Provide a self-evaluation of your performance, using the measures previously identified, in applying and acquiring new knowledge, skills, and
-competencies identified in the Training Plan for STEM OPT Students. Discuss accomplishments, successful projects, overall contributions, etc.,
-during this review period. Address whether there are any modifications to the objectives and goals for projects, or new areas for skill and competency
-development.
-
-
-Student Role: Describe the student's role with the employer and how that role is directly related to enhancing the student's knowledge obtained
-through his or her qualifying STEM degree.
-As an AI/ML Engineer at Infinite Computer Solutions (ICS), the student will apply his Master's in Business Analytics from Santa Clara
-University to design and develop AI-driven systems that enhance analytics and automation capabilities. Over the 24-month training
-period, he will gain experience developing AI agents that apply machine learning to monitor, validate, and optimize large-scale
-systems, while learning how to integrate intelligent models into production environments for data-driven decision support. His training
-will progress from understanding and extending existing AI workflows to independently building and deploying scalable agent-based
-solutions for enterprise applications. These assignments build directly on his academic foundation in data modeling, statistics, and
-systems analysis, allowing him to strengthen his analytical and engineering skills while applying concepts from artificial intelligence
-and distributed systems coursework to real-world business problems.
-Goals and Objectives: Describe how the assignment(s) with the employer will help the student achieve his or her specific objectives for work-based
-learning related to his or her STEM degree. The description must both specify the student's goals regarding specific knowledge, skills, or techniques
-as well as the means by which they will be achieved.
-The student's primary goal during the 24-month training period at Infinite Computer Solutions is to strengthen his expertise in artificial intelligence, data
-analytics, and scalable software systems by applying the analytical and technical foundations of his Master's in Business Analytics from Santa Clara
-University. He will focus on developing AI agents and machine-learning models that analyze, validate, and optimize large-scale system configurations,
-while learning to integrate these models into production environments to support data-driven decision making. Over time, his training will progress
-from implementing existing model frameworks to independently designing and deploying intelligent pipelines that ensure system reliability, anomaly
-detection, and performance monitoring. Through structured mentorship, technical reviews, and cross-functional collaboration, the student will gain
-hands-on experience with tools and methods for model deployment, automation, and evaluation. This experience will deepen his understanding of
-predictive modeling, distributed systems, and data engineering directly reinforcing and expanding upon his academic knowledge in statistics, systems
-analysis, and applied machine learning.
-Employer Oversight: Explain how the employer provides oversight and supervision of individuals filling positions such as that being filled by the
-named F-1 student. If the employer has a training program or related policy in place that controls such oversight and supervision, please describe.
-The student is supervised by both technical and managerial staff who guide his progress and ensure the training plan
-aligns with organizational and educational objectives. He reports directly to a senior AI/ML engineer, who provides daily
-technical mentoring, reviews project deliverables, and supports the student in applying machine learning concepts to
-production systems. Oversight is provided through regular one-on-one check-ins, sprint planning meetings, and team
-stand-ups following an Agile methodology. The student's work and learning outcomes are continuously monitored
-through code reviews, design discussions, and documented feedback sessions to track progress against defined
-milestones. Additionally, the training manager reviews quarterly performance summaries to ensure that the student's
-professional development and technical growth remain aligned with the goals of the STEM OPT training plan.
-Measures and Assessments: Explain how the employer measures and confirms whether individuals filling positions such as that being filled by the
-named F-1 student are acquiring new knowledge and skills. If the employer has a training program or related policy in place that controls such
-measures and assessments, please describe.
-The student's progress and learning are evaluated through a structured combination of weekly check-ins, code reviews, and
-milestone-based assessments. Each project phase includes defined learning objectives tied to skill areas such as machine learning
-model development, data pipeline design, and AI system integration. The student's contributions are reviewed through
-deliverable-based evaluations, peer feedback, and demonstration sessions where results are presented to senior engineers for
-discussion and refinement. Supervisors track both technical performance and learning outcomes to identify areas for improvement
-and assign progressively complex tasks as proficiency increases. Formal performance reviews occur quarterly, focusing on the
-student's ability to apply academic concepts from the Business Analytics program such as data analysis, systems modeling, and
-predictive techniques—to real-world AI solutions. This evaluation process ensures that the student's progress is measurable, aligned
-with the goals of the STEM OPT training plan, and reflective of continuous professional and technical growth
-
+How to Write the Short-Term Evaluation
+Since you were only there for two months, focus on your initial training, onboarding, and early contributions related to the goals in your original Training Plan. 
+Cal State Fullerton
+Cal State Fullerton
+ +1
+Onboarding & Knowledge Transfer: Describe the technical skills or company-specific methodologies you learned during your initial phase (e.g., "Completed intensive training on [Software/Tool] and successfully applied it to [Project X]").
+Initial Contributions: Highlight any early tasks or modules you completed. Even small contributions count as "accomplishments".
+Performance Measures: Address how you met the initial performance metrics defined in Section 5 of your original I-983.
+Goal Status: Briefly state that you are concluding this training opportunity to pursue a new role, which is why the goals are being finalized early
