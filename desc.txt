@@ -1,9 +1,15 @@
-How to Write the Short-Term Evaluation
-Since you were only there for two months, focus on your initial training, onboarding, and early contributions related to the goals in your original Training Plan. 
-Cal State Fullerton
-Cal State Fullerton
- +1
-Onboarding & Knowledge Transfer: Describe the technical skills or company-specific methodologies you learned during your initial phase (e.g., "Completed intensive training on [Software/Tool] and successfully applied it to [Project X]").
-Initial Contributions: Highlight any early tasks or modules you completed. Even small contributions count as "accomplishments".
-Performance Measures: Address how you met the initial performance metrics defined in Section 5 of your original I-983.
-Goal Status: Briefly state that you are concluding this training opportunity to pursue a new role, which is why the goals are being finalized early
+During my employment with Infinite Computer Solutions, Inc., I worked as an AI/ML Engineer and applied knowledge from my Master’s in Business Analytics in a practical industry setting. My work focused on supporting the design, development, and improvement of AI-driven systems related to analytics, automation, and enterprise applications. Through this role, I contributed to projects involving machine learning workflows, intelligent system development, and production-oriented engineering tasks aligned with the training plan.
+
+During this evaluation period, I strengthened my skills in data analysis, machine learning concepts, AI system design, and software development practices. I also gained hands-on exposure to working within structured team environments, participating in technical discussions, receiving feedback through reviews, and applying business and technical knowledge to real-world problems. This practical training directly related to my STEM degree by allowing me to apply concepts in analytics, modeling, systems thinking, and AI-driven decision support.
+
+Although my employment ended after approximately two months, I made meaningful progress toward the learning objectives outlined in the training plan. I developed a stronger understanding of how AI and machine learning solutions are built and supported in a professional environment, and I expanded my technical and analytical skills through practical experience. Because the training opportunity ended early, some longer-term goals remained in progress at the time of departure.
+
+If you want a slightly stronger version that sounds more specific and professional, use this:
+
+Version 2
+
+During my employment with Infinite Computer Solutions, Inc., I served as an AI/ML Engineer and worked on projects aligned with my Master’s in Business Analytics. My responsibilities involved supporting AI and machine learning initiatives, contributing to analytics and automation-focused solutions, and participating in the development of production-oriented systems. This role allowed me to apply academic knowledge in data analysis, predictive techniques, and systems modeling in a real-world enterprise environment.
+
+Over the course of this training period, I gained practical experience in AI/ML workflows, analytical problem-solving, and technical collaboration. I improved my ability to work with intelligent system design, understand enterprise development processes, and apply structured methods for evaluating and improving system performance. I also benefited from ongoing supervision, technical feedback, and team-based project execution, which supported both my professional development and my STEM learning objectives.
+
+While my employment concluded after about two months, I made solid progress toward the goals stated in my training plan. I successfully expanded my applied knowledge and developed relevant technical competencies, though some long-term objectives remained in progress due to the early end of the training opportunity.
